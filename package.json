@@ -7,7 +7,7 @@
     "types": "index.d.ts",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Nikunj-bs/types-passport-latest-windowsauth",
+        "url": "git+https://github.com/Nikunj-bs/types-passport-latest-windowsauth.git",
         "directory": "types/passport-latest-windowsauth"
     },
     "scripts": {},
@@ -22,5 +22,18 @@
         "registry": "https://registry.npmjs.org/"
     },
     "typesPublisherContentHash": "4267d48028a7ce494c24bf7fc04b06fdba1b5d1537161a158ec41eab1e46b038",
-    "typeScriptVersion": "3.6"
+    "typeScriptVersion": "3.6",
+    "bugs": {
+        "url": "https://github.com/Nikunj-bs/types-passport-latest-windowsauth/issues"
+    },
+    "homepage": "https://github.com/Nikunj-bs/types-passport-latest-windowsauth#readme",
+    "keywords": [
+        "passport",
+        "windows",
+        "auth",
+        "ntlm",
+        "auth0",
+        "windowsauth"
+    ],
+    "author": ""
 }
