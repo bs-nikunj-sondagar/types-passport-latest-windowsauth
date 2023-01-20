@@ -61,6 +61,6 @@ export = windowsauth;
 ````
 
 ### Additional Details
- * Last updated: Thu, 08 Jul 2021 20:19:27 GMT
+ * Last updated: Thu, 20 Jan 2023 
  * Dependencies: [@types/express](https://npmjs.com/package/@types/express), [@types/passport](https://npmjs.com/package/@types/passport), [@types/ldapjs](https://npmjs.com/package/@types/ldapjs)
  * Global values: none

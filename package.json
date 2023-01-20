@@ -4,13 +4,6 @@
     "description": "TypeScript definitions for passport-latest-windowsauth",
     "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/passport-latest-windowsauth",
     "license": "MIT",
-    "contributors": [
-        {
-            "name": "Nikunj",
-            "url": "https://github.com/Nikunj-bs",
-            "githubUsername": "Nikunj-bs"
-        }
-    ],
     "main": "",
     "types": "index.d.ts",
     "repository": {
