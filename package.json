@@ -1,0 +1,29 @@
+{
+    "name": "@types/passport-latest-windowsauth",
+    "version": "1.0.0",
+    "description": "TypeScript definitions for passport-latest-windowsauth",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/passport-latest-windowsauth",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Nikunj",
+            "url": "https://github.com/Nikunj-bs",
+            "githubUsername": "Nikunj-bs"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/passport-latest-windowsauth"
+    },
+    "scripts": {},
+    "dependencies": {
+        "@types/express": "*",
+        "@types/ldapjs": "*",
+        "@types/passport": "*"
+    },
+    "typesPublisherContentHash": "4267d48028a7ce494c24bf7fc04b06fdba1b5d1537161a158ec41eab1e46b038",
+    "typeScriptVersion": "3.6"
+}
